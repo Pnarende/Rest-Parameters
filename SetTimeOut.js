@@ -1,3 +1,5 @@
+//Syntax
+//let timeOut=setTimeOut(fun(),delay,args1,args2)
 setTimeout
 function Hello(){
     console.log("Hello")
